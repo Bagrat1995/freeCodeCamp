@@ -45,3 +45,5 @@ canvas = document.getElementById("canvas");
 #### Дополнительная информация:
 
 *   [API холста MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+
+my changes.
